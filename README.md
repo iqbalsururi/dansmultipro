@@ -13,3 +13,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 
 ## Instalation
+- composer install
+- npm install && npm run dev
+- make database
+- cp .env.example .env
+- php artisan serve
